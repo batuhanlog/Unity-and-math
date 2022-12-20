@@ -1,1 +1,14 @@
 Patika.dev Ödevi
+
+Unity, bir oyun motoru olarak tasarlandığından, matematik temelli birçok işlevi destekler. 
+Örneğin, Unity, vektörler, matrisler ve quaternion'lar gibi çeşitli matematiksel veri türlerini destekler.
+Bu veri türleri, oyunların fizik motorları ve grafikleri gibi birçok özelliğinin temelini oluşturur.
+Unity'de, C# veya UnityScript dilinde matematiksel işlemler yapılabilir.
+ Örneğin, vektörler arasında toplama, çıkarma, skaler çarpım ve çarpım işlemleri yapılabilir.
+ Ayrıca, matrisler arasında çarpım işlemleri de yapılabilir. 
+Quaternion'lar ise, döndürme işlemlerini modellemek için kullanılır.
+
+Unity ayrıca, birçok matematiksel fonksiyon ve metodu da destekler. Örneğin, trigonometrik fonksiyonlar, logaritmik fonksiyonlar ve özel fonksiyonlar gibi matematiksel işlemler yapılabilir.
+Ayrıca, rastgele sayı üretme, dizi ve matrisleri sıralama gibi işlemler de yapılabilir. Unity'de matematik, oyunların fizik motorlarını ve grafiklerini modellemek için önemlidir.
+ Örneğin, bir oyunun fizik motoru, vektörler ve matrisler gibi matematiksel veri türlerini kullanarak oyunun nesnelerinin hareketini modeller. 
+Ayrıca, grafikler de matematiksel işlemler kullanarak çizilir ve dönüştürülür.
